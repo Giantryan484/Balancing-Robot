@@ -25,7 +25,7 @@ This project is interdisciplinary at its core. It's going to be a lot of program
  - For the beginning at least, the robot will be naked so the electronics are easy to access. Once we've got a balancing prototype, then I'll build and 3D-print the outside armor.
  - Original sketches (see `sketches/`):
 
-<img src="sketches/robotsketches-1.png" width="333"> <img src="sketches/robotsketches-2.png" width="333"> <img src="sketches/robotsketches-3.png" width="333">
+<img src="sketches/robotsketches-1.png" width="500"> 
 
 #### Machine Learning:
  - This is the interesting stuff.
