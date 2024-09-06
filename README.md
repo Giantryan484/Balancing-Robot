@@ -35,7 +35,7 @@ This project is interdisciplinary at its core. It's going to be a lot of program
  - Machine learning is fairly straightforward at this level (just a lot of vocab words). And again, there's probably a tutorial of someone doing a similar project that we could follow if we get lost.
 
 ## Task Breakdown
-#### Ryan's Tasks (Engineering and 3D Modeling)
+#### Ryan's Tasks (Engineering, 3D Modeling, and Machine Learning)
  - 3D Modeling and Construction:
      - Design 3D models of the robot components.
      - Buy/Print materials and assemble the physical robot once robotics system is tested.
@@ -48,7 +48,7 @@ This project is interdisciplinary at its core. It's going to be a lot of program
      - Set up the simulation environment (e.g., OpenAI Gym).
      - Define the states, actions, and reward function.
 
-#### Adrian's Tasks (Programming)
+#### Adrian's Tasks (Programming and Physics)
 
  - Arduino Programming:
      - Develop code for motor control.
@@ -58,7 +58,7 @@ This project is interdisciplinary at its core. It's going to be a lot of program
      - Learn Python and PyBullet
      - Take 3D model (made by me) and test its movements in the simulation
 
-#### Shared Tasks (Machine Learning and testing):
+#### Shared Tasks (Integration and Testing):
 
  - Test robotics system
      - Plug everything in based on the schematics.
@@ -68,33 +68,33 @@ This project is interdisciplinary at its core. It's going to be a lot of program
      - Transfer trained ML model to Raspberry Pi.
      - Test movement abilities and adjust model as necessary.
 
-## Tentative Timeline:
+## Tentative Timeline (with estimated time):
 
 #### <ins>September</ins>:
 ##### Ryan (Designing): 
- - Start designing 3D models of robot components.
- - Plan robotics system, buy electronics once finalized.
+ - Build 3D models of robot components (20 hours).
+ - Plan robotics system, buy electronics once finalized (10 hours).
 ##### Adrian (Python): 
- - Learn basic python syntax (ChatGPT is honestly a great resource nowadays).
- - Learn about the PyBullet physics simulation library, build some simple tutorial environments.
+ - Learn basic python syntax (1-10 hours depending on familiarity).
+ - Learn about the PyBullet physics simulation library, follow some tutorials (10 hours).
 
 #### <ins>October</ins>:
 ##### Ryan (Assembly and RL): 
- - Buy parts and assemble the physical robot (without electronics for now).
- - Design model for Reinforcement Learning.
- - Define states, actions, and reward functions in the simulation environment.
+ - Buy parts and assemble the physical robot (without electronics for now) (20 hours).
+ - Design model for Reinforcement Learning (4 hours).
+ - Define states, actions, and reward functions in the simulation environment (5 hours).
 ##### Adrian (Physics): 
- - Build physics simulation.
- - Set up Raspberry Pi to host machine learning model (again, ChatGPT is a great resource).
+ - Build physics simulation (12 hours).
+ - Set up Raspberry Pi to host machine learning model (2 hours).
 
 #### <ins>November</ins>:
 ##### Ryan (Training): 
- - Integrate physics simulation with reinforcment learning library.
- - Train model and do a ton of testing.
- - Make Arduino code to control facial expressions (OLED screen).
+ - Integrate physics simulation with reinforcment learning library (10 hours).
+ - Train model and do a ton of testing (20 hours).
+ - Make Arduino code to control facial expressions (OLED screen) (4 hours).
 ##### Adrian (Arduino): 
- - Develop basic motor, sensor, and remote control system code for the Arduino (tons of tutorials online, should be mostly copy-paste).
- - Test code with physical Components.
+ - Develop basic motor, sensor, and remote control system code for the Arduino--Follow online tutorials if wanted (10 hours).
+ - Test code with physical Components (5 hours).
 
 #### <ins>December</ins>:
 ##### Both (Integration and Testing): 
@@ -106,8 +106,28 @@ This project is interdisciplinary at its core. It's going to be a lot of program
 #### <ins>January</ins>:
  - Put it on college applications
 
-#### <ins>Afterwards?</ins>
+#### <ins>2nd Semester?</ins>
  - Arm movement (complicates physics simulation and training)
  - Outer body (complicates 3D design and printing)
  - Have robot grab a diploma on stage at Red Rocks
 
+### Summary of Hours:
+
+#### September:
+ - Ryan: 30 hours
+ - Adrian: ~15 hours
+
+#### October:
+ - Ryan: 29 hours
+ - Adrian: 14 hours
+
+#### November:
+ - Ryan: 34 hours
+ - Adrian: 15 hours
+
+#### December:
+ - Both: Unknown
+
+#### Averages:
+ - Ryan: 93 hours / 12 weeks = ~8 hours/week
+ - Adrian: 44 hours / 12 weeks = ~4 hours/week
