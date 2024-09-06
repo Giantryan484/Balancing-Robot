@@ -35,7 +35,7 @@ This project is interdisciplinary at its core. It's going to be a lot of program
  - Machine learning is fairly straightforward at this level (just a lot of vocab words). And again, there's probably a tutorial of someone doing a similar project that we could follow if we get lost.
 
 ## Task Breakdown
-#### My Tasks (Engineering and 3D Modeling)
+#### Ryan's Tasks (Engineering and 3D Modeling)
  - 3D Modeling and Construction:
      - Design 3D models of the robot components.
      - Buy/Print materials and assemble the physical robot once robotics system is tested.
@@ -48,7 +48,7 @@ This project is interdisciplinary at its core. It's going to be a lot of program
      - Set up the simulation environment (e.g., OpenAI Gym).
      - Define the states, actions, and reward function.
 
-#### Partner's Tasks (Programming)
+#### Adrian's Tasks (Programming)
 
  - Arduino Programming:
      - Develop code for motor control.
@@ -70,39 +70,44 @@ This project is interdisciplinary at its core. It's going to be a lot of program
 
 ## Tentative Timeline:
 
-#### 3 Weeks:
+#### <ins>September</ins>:
 ##### Ryan (Designing): 
  - Start designing 3D models of robot components.
  - Plan robotics system, buy electronics once finalized.
-##### Partner (Python): 
+##### Adrian (Python): 
  - Learn basic python syntax (ChatGPT is honestly a great resource nowadays).
  - Learn about the PyBullet physics simulation library, build some simple tutorial environments.
- - Plan physics simulation environment.
 
-#### 3 Weeks:
+#### <ins>October</ins>:
 ##### Ryan (Assembly and RL): 
  - Buy parts and assemble the physical robot (without electronics for now).
  - Design model for Reinforcement Learning.
  - Define states, actions, and reward functions in the simulation environment.
-##### Partner (Physics): 
+##### Adrian (Physics): 
  - Build physics simulation.
  - Set up Raspberry Pi to host machine learning model (again, ChatGPT is a great resource).
 
-#### 3 Weeks:
+#### <ins>November</ins>:
 ##### Ryan (Training): 
- - Integrate physics simulation with reinforcment learning library
+ - Integrate physics simulation with reinforcment learning library.
  - Train model and do a ton of testing.
-##### Partner (Arduino): 
+ - Make Arduino code to control facial expressions (OLED screen).
+##### Adrian (Arduino): 
  - Develop basic motor, sensor, and remote control system code for the Arduino (tons of tutorials online, should be mostly copy-paste).
  - Test code with physical Components.
 
-#### 2 Weeks:
+#### <ins>December</ins>:
 ##### Both (Integration and Testing): 
  - Put machine learning model into robot and test it.
- - Debug code if needed (Partner).
+ - Debug code if needed (Adrian).
  - Re-train model/rebuild simulation if needed (Ryan).
+ - Document project and results, make videos if wanted.
 
-#### 2 Weeks:
-##### Both: 
- - Document project process and results, make videos if wanted.
+#### <ins>January</ins>:
+ - Put it on college applications
+
+#### <ins>Afterwards?</ins>
+ - Arm movement (complicates physics simulation and training)
+ - Outer body (complicates 3D design and printing)
+ - Have robot grab a diploma on stage at Red Rocks
 
