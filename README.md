@@ -48,14 +48,14 @@ This project is interdisciplinary at its core. It's going to be a lot of program
      - Set up the simulation environment (e.g., OpenAI Gym).
      - Define the states, actions, and reward function.
 
-#### Adrian's Tasks (Programming and Physics)
+#### Asher's Tasks (Programming and Physics)
 
  - Arduino Programming:
      - Develop code for motor control.
      - Retrieve data from sensors.
 
  - Design physics simulation in Python:
-     - Learn Python and PyBullet
+     - Learn PyBullet
      - Take 3D model (made by me) and test its movements in the simulation
 
 #### Shared Tasks (Integration and Testing):
@@ -74,8 +74,8 @@ This project is interdisciplinary at its core. It's going to be a lot of program
 ##### Ryan (Designing): 
  - Build 3D models of robot components (20 hours).
  - Plan robotics system, buy electronics once finalized (10 hours).
-##### Adrian (Python): 
- - Learn basic python syntax (1-10 hours depending on familiarity).
+##### Asher (Python): 
+ - Review python if needed (1-10 hours, I forgot your familiarity).
  - Learn about the PyBullet physics simulation library, follow some tutorials (10 hours).
 
 #### <ins>October</ins>:
@@ -83,7 +83,7 @@ This project is interdisciplinary at its core. It's going to be a lot of program
  - Buy parts and assemble the physical robot (without electronics for now) (20 hours).
  - Design model for Reinforcement Learning (4 hours).
  - Define states, actions, and reward functions in the simulation environment (5 hours).
-##### Adrian (Physics): 
+##### Asher (Physics): 
  - Build physics simulation (12 hours).
  - Set up Raspberry Pi to host machine learning model (2 hours).
 
@@ -92,14 +92,14 @@ This project is interdisciplinary at its core. It's going to be a lot of program
  - Integrate physics simulation with reinforcment learning library (10 hours).
  - Train model and do a ton of testing (20 hours).
  - Make Arduino code to control facial expressions (OLED screen) (4 hours).
-##### Adrian (Arduino): 
+##### Asher (Arduino): 
  - Develop basic motor, sensor, and remote control system code for the Arduino--Follow online tutorials if wanted (10 hours).
  - Test code with physical Components (5 hours).
 
 #### <ins>December</ins>:
 ##### Both (Integration and Testing): 
  - Put machine learning model into robot and test it.
- - Debug code if needed (Adrian).
+ - Debug code if needed (Asher).
  - Re-train model/rebuild simulation if needed (Ryan).
  - Document project and results, make videos if wanted.
 
@@ -115,19 +115,19 @@ This project is interdisciplinary at its core. It's going to be a lot of program
 
 #### September:
  - Ryan: 30 hours
- - Adrian: ~15 hours
+ - Asher: ~15 hours
 
 #### October:
  - Ryan: 29 hours
- - Adrian: 14 hours
+ - Asher: 14 hours
 
 #### November:
  - Ryan: 34 hours
- - Adrian: 15 hours
+ - Asher: 15 hours
 
 #### December:
  - Both: Unknown
 
 #### Averages:
  - Ryan: 93 hours / 12 weeks = ~8 hours/week
- - Adrian: 44 hours / 12 weeks = ~4 hours/week
+ - Asher: 44 hours / 12 weeks = ~4 hours/week
