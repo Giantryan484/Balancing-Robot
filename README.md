@@ -76,7 +76,7 @@ This project is interdisciplinary at its core. It's going to be a lot of program
  - Plan robotics system, buy electronics once finalized (10 hours).
 ##### Asher (Python): 
  - Review python if needed (1-10 hours, I forgot your familiarity).
- - Learn about the PyBullet physics simulation library, follow some tutorials (10 hours).
+ - Learn about the [PyBullet physics simulation library](https://docs.google.com/document/d/10sXEhzFRSnvFcl3XxNGhnD4N2SedqwdAvK3dsihxVUA/edit#heading=h.wz5to0x8kqmr), follow some tutorials (10 hours).
 
 #### <ins>October</ins>:
 ##### Ryan (Assembly and RL): 
