@@ -1,4 +1,4 @@
-# Guitar TAB Generator
+# Balancing Robot
 
 <div align="center">
     This repository store the code and 3D modelling files for a Balancing Robot that I'm building with a friend of mine, Asher Levin. It's currently a Work-In-Progress, but maybe the progress we've made so far is of interest to you.
