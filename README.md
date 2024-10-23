@@ -8,7 +8,7 @@
 
 My partner and I are working on this project at the exact same time, so we're keeping our work as separate as possible. Because of this, and because I don't want to install unneeded files onto the Raspberry Pi, we've separated our work onto multiple branches in this repo. 
 
-I, Ryan, am in charge of mechanical design and assembly; buying and building all the parts; and designing/training a model in the reinforcment learning environment. You can see all my 3D models on the `Design` branch. I might expand to other branches for the machine learning process as well.
+I, Ryan, am in charge of mechanical design and assembly; buying and building all the parts; and designing/training a model in the reinforcment learning environment. You can see all my 3D models on the `3D_Designs` branch. I might expand to other branches for the machine learning process as well.
 
 Asher is in charge of the computer system inside of the robot, including all sensors, motors, and an eventual real-time connection to my reinforcment learning model. You can see most of his work on the `pi` branch, containing all the code he has written on the Raspberry Pi. Eventually, he might make other branches for extra code snippets, perhaps for our arduino nanos.
 
