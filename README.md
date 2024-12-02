@@ -19,7 +19,16 @@ On the main branch is a few shared files, largely relating to communication betw
 
 ## What We're doing now
 
-Currently working through our assigned tasks in the [updated project plan.](10-23-24_Task_Guide.md)
+----
+BIG UPDATE 12/2/24: 
+- As you can see in the banner image, I've technically printed every part this robot needs and, in theory, could keep building it that way. HOWEVER, the printing quality on these parts is genuinely unusable. I'm trying to install threaded inserts into the connectors that arrach to the aluminum rods, but my printer had such poor layer adhesion that upon twisting in a screw, the insert becomes unstuck and falls out. I spent a month changing the design of the parts, including buying too many threaded inserts to count, but my conclusion is this: It's time to move beyond to my 4-year-old $150 Ender 3 pro. I've used and abused it for too long, and I simply don't have the time to recalibrate all my slicer settings and physical alignment before every single print. Instead, I'm taking advantage of BambuLab's black friday sale to buy a fully decked-out $450 A1 printer, on which I will reprint this entire assembly once it arrives.
+- I have started the simulation process and it has proven to be surprisingly easy and well-documented. The PyTorch integration is so smooth compared to the Tensorflow headache I've been dealing with for months on my website (tabgenerator.app).
+- Additionally, and I don't like admitting this, Asher has remained absent from this project so far. Originally, he said he'd be done with all of his code by our mid-December goal, but so far I haven't heard from him and the deadline fast approaches. As such, I might be taking on all of his responsibilities, adding a significant amount to my workload. 
+- With all of this in mind, it's likely the robot will remain unfunctional for longer than expected, with my current estimate for its balancing capabilities set in late February.
+----
+
+
+We are currently working through our assigned tasks in the [updated project plan.](10-23-24_Task_Guide.md)
 
 ## About the Project
 (filled out by Ryan)
