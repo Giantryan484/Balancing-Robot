@@ -3,7 +3,7 @@
 <div align="center">
     This repository stores the code and 3D files for a Robot that I'm in the process of building. Eventually, this will be an agent for exploring modern computer vision techniques and human-computer interaction. It's currently a Work-In-Progress, but maybe the progress I've made so far is of interest to you.
     <br/><br/>
-    <img src="Banner.gif" height="400px">
+    <img src="Banner.jpg" height="400px">
 </div>
 
 ## What I'm doing now
